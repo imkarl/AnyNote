@@ -25,6 +25,6 @@ dependencies {
     compile project(":services")
     // android support
     compile "com.android.support:appcompat-v7:$android_support_version"
-    // Reactive
+    // ReactiveX
     compile "io.reactivex:rxandroid:$library_reactivex_version"
 }

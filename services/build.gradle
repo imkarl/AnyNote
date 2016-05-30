@@ -23,7 +23,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     // kotlin
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-    // Reactive
+    // ReactiveX
     compile "io.reactivex:rxandroid:$library_reactivex_version"
     // Retrofit
     compile "com.squareup.retrofit2:retrofit:$library_retrofit_version"
